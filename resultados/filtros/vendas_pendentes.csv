@@ -1,0 +1,3 @@
+data_venda,cliente,email,produto,categoria,cidade,estado,quantidade,preco_unitario,forma_pagamento,status,avaliacao,faturamento,mes
+2024-01-14,Bruno Almeida,bruno.a@email.com,HD Externo 2TB,Hardware,Santiago,RS,1,459.9,boleto,pendente,,459.9,1
+2024-01-18,Rodrigo Lima,rodrigo.l@email.com,Mesa Escritório,Móveis,Curitiba,PR,1,499.9,pix,pendente,,499.9,1

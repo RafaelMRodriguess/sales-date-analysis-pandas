@@ -1,0 +1,14 @@
+data_venda,cliente,email,produto,categoria,cidade,estado,quantidade,preco_unitario,forma_pagamento,status,avaliacao,faturamento,mes
+2024-01-05,Carlos Lima,carlos.lima@email.com,Mouse Logitech,Acessórios,Santiago,RS,2,89.9,pix,concluída,4.0,179.8,1
+2024-01-07,Beatriz Santos,bia.santos@email.com,Cadeira Gamer,Móveis,Curitiba,PR,1,1299.9,pix,concluída,5.0,1299.9,1
+2024-01-08,Rafael Torres,rafael.t@email.com,Mesa Escritório,Móveis,Santa Maria,RS,1,499.9,pix,concluída,4.0,499.9,1
+2024-01-10,Camila Nunes,camila.n@email.com,SSD 1TB Kingston,Hardware,São Paulo,SP,2,399.9,pix,concluída,4.0,799.8,1
+2024-01-11,Gustavo Silva,gustavo.s@email.com,Cabo HDMI,Acessórios,Rio de Janeiro,RJ,3,39.9,pix,concluída,5.0,119.69999999999999,1
+2024-01-12,Diego Ramos,diego.r@email.com,Suporte Monitor,Móveis,São Paulo,SP,1,189.9,pix,concluída,4.0,189.9,1
+2024-01-13,André Oliveira,andre.o@email.com,Mouse Logitech,Acessórios,Santa Maria,RS,1,89.9,pix,concluída,3.0,89.9,1
+2024-01-15,Carolina Ribeiro,carolina.r@email.com,Teclado Mecânico,Acessórios,Curitiba,PR,1,249.9,pix,concluída,4.0,249.9,1
+2024-01-16,Eduardo Lopes,eduardo.l@email.com,Webcam Full HD,Acessórios,Florianópolis,SC,1,159.9,pix,cancelada,,159.9,1
+2024-01-17,Mateus Barbosa,mateus.b@email.com,SSD 1TB Kingston,Hardware,Rio de Janeiro,RJ,1,399.9,pix,concluída,4.0,399.9,1
+2024-01-18,Rodrigo Lima,rodrigo.l@email.com,Mesa Escritório,Móveis,Curitiba,PR,1,499.9,pix,pendente,,499.9,1
+2024-01-19,Thiago Martins,thiago.m@email.com,Headset HyperX,Acessórios,Porto Alegre,RS,2,349.9,pix,concluída,4.0,699.8,1
+2024-01-20,Ricardo Reis,ricardo.r@email.com,Cabo HDMI,Acessórios,Santa Maria,RS,5,39.9,pix,concluída,4.0,199.5,1

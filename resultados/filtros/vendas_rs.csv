@@ -1,0 +1,14 @@
+data_venda,cliente,email,produto,categoria,cidade,estado,quantidade,preco_unitario,forma_pagamento,status,avaliacao,faturamento,mes
+2024-01-05,Ana Souza,ana.souza@email.com,Notebook Dell Inspiron,Eletrônicos,Santa Maria,RS,1,3500.0,cartão de crédito,concluída,5.0,3500.0,1
+2024-01-05,Carlos Lima,carlos.lima@email.com,Mouse Logitech,Acessórios,Santiago,RS,2,89.9,pix,concluída,4.0,179.8,1
+2024-01-06,Juliana Alves,juliana.alves@email.com,Teclado Mecânico,Acessórios,Porto Alegre,RS,1,249.9,boleto,cancelada,,249.9,1
+2024-01-08,Rafael Torres,rafael.t@email.com,Mesa Escritório,Móveis,Santa Maria,RS,1,499.9,pix,concluída,4.0,499.9,1
+2024-01-09,Fernanda Rocha,fernanda.r@email.com,Webcam Full HD,Acessórios,Santiago,RS,2,159.9,boleto,concluída,3.0,319.8,1
+2024-01-11,Laura Mendes,laura.m@email.com,Impressora Epson,Eletrônicos,Porto Alegre,RS,1,749.9,boleto,concluída,4.0,749.9,1
+2024-01-13,André Oliveira,andre.o@email.com,Mouse Logitech,Acessórios,Santa Maria,RS,1,89.9,pix,concluída,3.0,89.9,1
+2024-01-14,Bruno Almeida,bruno.a@email.com,HD Externo 2TB,Hardware,Santiago,RS,1,459.9,boleto,pendente,,459.9,1
+2024-01-16,Larissa Freitas,larissa.f@email.com,Cadeira Gamer,Móveis,Porto Alegre,RS,1,1299.9,cartão de crédito,concluída,4.0,1299.9,1
+2024-01-17,Sofia Cardoso,sofia.c@email.com,Monitor LG 24,Eletrônicos,Santa Maria,RS,2,899.0,cartão de crédito,concluída,5.0,1798.0,1
+2024-01-19,Mariana Teixeira,mariana.t@email.com,Notebook Lenovo,Eletrônicos,Santiago,RS,1,4200.0,cartão de crédito,concluída,5.0,4200.0,1
+2024-01-19,Thiago Martins,thiago.m@email.com,Headset HyperX,Acessórios,Porto Alegre,RS,2,349.9,pix,concluída,4.0,699.8,1
+2024-01-20,Ricardo Reis,ricardo.r@email.com,Cabo HDMI,Acessórios,Santa Maria,RS,5,39.9,pix,concluída,4.0,199.5,1
